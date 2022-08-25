@@ -1,0 +1,101 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!-- DW6 -->
+<head>
+<!-- Copyright 2005 Macromedia, Inc. All rights reserved. -->
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Home Page</title>
+<!-- TemplateEndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="stylesheet" href="../mm_training.css" type="text/css" />
+<style type="text/css">
+<!--
+.style1 {font-size: 36px}
+.style3 {color: #FFFFFF}
+.style6 {font-size: 12px; }
+-->
+</style>
+<!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable -->
+</head>
+<body bgcolor="#64748B">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr bgcolor="#26354A">
+	<td width="15" nowrap="nowrap"><img src="../mm_spacer.gif" alt="" width="15" height="1" border="0" /></td>
+	<td height="132" colspan="3" nowrap="nowrap" background="../images/header.jpg" class="logo"><div align="center" class="style3"><span class="style1">&#3588;&#3594;&#3650;&#3627;&#3619;&#3634;</span> KCHAHORO</div></td>
+	<td width="5">&nbsp;</td>
+	<td width="262">&nbsp;</td>
+	</tr>
+
+	<tr bgcolor="#FF6600">
+	<td height="29" colspan="6"><img src="../mm_spacer.gif" alt="" width="1" height="4" border="0" /></td>
+	</tr>
+
+	<tr bgcolor="#D3DCE6">
+	<td colspan="6"><img src="../mm_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+	</tr>
+
+	<tr bgcolor="#FFCC00">
+	<td width="15" nowrap="nowrap">&nbsp;</td>
+	<td colspan="3" height="24">
+	<table width="520" border="0" cellpadding="0" cellspacing="0" id="navigation">
+        <tr>
+          <td width="70" align="center" nowrap="nowrap" class="navText"><a href="../index.html" class="style6">&#3627;&#3609;&#3657;&#3634;&#3649;&#3619;&#3585;</a></td>
+          <td width="79" align="center" nowrap="nowrap" class="navText"><a href="../Horo/frist.html" class="style6">&#3650;&#3627;&#3619;&#3634;&#3624;&#3634;&#3626;&#3605;&#3619;&#3660;</a></td>
+          <td width="149" align="center" nowrap="nowrap" class="navText"><a href="../Buhhda/buhhda (0).html" class="style6">&#3648;&#3619;&#3639;&#3656;&#3629;&#3591;&#3614;&#3619;&#3632;&#3614;&#3640;&#3607;&#3608;&#3648;&#3592;&#3657;&#3634;&#3586;&#3629;&#3591;&#3648;&#3619;&#3634;</a></td>
+          <td width="82" align="center" nowrap="nowrap" class="navText"><a href="../activity.html" class="style6">&#3585;&#3636;&#3592;&#3585;&#3619;&#3619;&#3617;</a></td>
+          <td width="57" align="center" nowrap="nowrap" class="navText"><a href="../contract.html" class="style6">&#3605;&#3636;&#3604;&#3605;&#3656;&#3629;&#3648;&#3619;&#3634;</a></td>
+        </tr>
+      </table>	</td>
+	<td width="5">&nbsp;</td>
+	<td width="262">&nbsp;</td>
+	</tr>
+
+	<tr bgcolor="#D3DCE6">
+	<td colspan="6"><img src="../mm_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+	</tr>
+
+	<tr bgcolor="#FF6600">
+	<td colspan="6"><img src="../mm_spacer.gif" alt="" width="1" height="4" border="0" /></td>
+	</tr>
+
+	<tr bgcolor="#D3DCE6">
+	<td colspan="2" valign="top" bgcolor="#26354A"><img src="../images/Duang.jpg" alt="Home Page Image" width="225" height="224" border="0" /><br />
+	<table border="0" cellspacing="0" cellpadding="0" width="230">
+		<tr>
+		<td width="230" class="sidebarText" id="padding">&nbsp;</td>
+		</tr>
+	</table>	</td>
+	<td width="50" valign="top"><img src="../mm_spacer.gif" alt="" width="50" height="1" border="0" /></td>
+	<td width="565" valign="top"><br />
+	<br />
+	<table border="0" cellspacing="0" cellpadding="0" width="522">
+	  <!-- TemplateBeginEditable name="EditRegion1" -->
+	  <tr>
+        <td width="522">&nbsp;</td>
+	  </tr>
+      <tr>
+        <td class="bodyText">&nbsp;</td>
+      </tr>
+	  <!-- TemplateEndEditable -->
+	</table>
+	 <br />
+	&nbsp;<br />	</td>
+	<td width="5">&nbsp;</td>
+	<td width="262">&nbsp;</td>
+	</tr>
+
+	<tr bgcolor="#D3DCE6">
+	<td colspan="6"><img src="../mm_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+	</tr>
+
+	<tr>
+	<td width="15">&nbsp;</td>
+	<td width="215">&nbsp;</td>
+	<td width="50">&nbsp;</td>
+	<td width="565">&nbsp;</td>
+	<td width="5">&nbsp;</td>
+	<td width="262">&nbsp;</td>
+	</tr>
+</table>
+</body>
+</html>
