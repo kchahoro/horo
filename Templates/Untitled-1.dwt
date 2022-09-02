@@ -1,0 +1,42 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>หัว คชโหรา</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateParam name="OptionalRegion1" type="boolean" value="true" -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<table width="970" height="671" border="1">
+  <tbody>
+    <tr>
+      <td width="160" height="132" align="center" bgcolor="#F0D7D7">&nbsp;</td>
+      <td colspan="3" align="center" bgcolor="#4709BA"><p><strong>คชโหรา</strong></p>
+      <p><strong>KCHAHORO</strong></p></td>
+      <td width="181" bgcolor="#F4E8E8">&nbsp;</td>
+    </tr>
+    <tr>
+      <td height="33" align="center"><a href="../Horo/frist.html">&nbsp;โหราศาสตร์ไทย</a></td>
+      <td width="190" align="center"><a href="../promotion.html">Promotion</a></td>
+      <td width="177" align="center"><a href="../Buhhda/buhhda (0).html">พระพุทธเจ้าของเรา</a></td>
+      <td width="228" align="center"><a href="../activity.html">กิจกรรม</a></td>
+      <td align="center"><a href="../contract.html">สมัครเรียน ติดต่อเรา</a></td>
+    </tr>
+    <tr>
+      <td align="left"><img src="../giphy.gif" width="160" height="160" alt=""/></td>
+      <td colspan="4" rowspan="3" bgcolor="#DFDFDF"><!-- TemplateBeginIf cond="OptionalRegion1" --><!-- TemplateBeginEditable name="EditRegion1" -->OptionalRegion1<!-- TemplateEndEditable --><!-- TemplateEndIf --></td>
+    </tr>
+    <tr>
+      <td><img src="../solar.gif" width="160" height="160" alt=""/></td>
+    </tr>
+    <tr>
+      <td><img src="../tumblr_mg2j8iFZ5h1qa3azoo1_250.gif" width="160" height="160" alt=""/></td>
+    </tr>
+  </tbody>
+</table>
+</body>
+</html>
