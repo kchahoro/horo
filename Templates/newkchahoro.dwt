@@ -103,8 +103,7 @@ body {
     <div align="center" class="style25"></div></td>
   </tr>
   <tr>
-    <td align="center" valign="top" background="../images/header.jpg" bgcolor="#C5BCFC">&nbsp;</td>
-    <td valign="top" background="../images/header.jpg" bgcolor="#C5BCFC">&nbsp;</td>
+    <td colspan="2" align="center" valign="top" background="../images/header.jpg" bgcolor="#C5BCFC">&nbsp;</td>
   </tr>
 </table>
 </body>
