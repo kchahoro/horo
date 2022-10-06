@@ -99,12 +99,12 @@
 	cursor: pointer;
 }
 .left_article {
-	background-color: #FFFFFF;
-	width: 60%;
-	float: left;
-	font-family: "Source Sans Pro";
-	color: #343434;
-	padding-bottom: 15px;
+    background-color: #FFFFFF;
+    width: 60%;
+    float: left;
+    font-family: "Source Sans Pro";
+    color: hsla(317,71%,85%,1);
+    padding-bottom: 15px;
 }
 .noDisplay {
 	display: none;
