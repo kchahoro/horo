@@ -47,8 +47,9 @@
 	margin-right: 0px;
 }
 .row .columns p {
-	padding-left: 10%;
-	padding-right: 10%;
+    padding-left: 10%;
+    padding-right: 10%;
+    color: hsla(316,73%,3%,1);
 }
 .container .columns h4 {
 	text-align: center;
