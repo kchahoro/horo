@@ -31,14 +31,10 @@
               <h1>คชโหรา</h1>
             <h1>kchahoro</h1></td>
 <<<<<<< HEAD
-            <td width="273"><p><img src="../myline.png" width="74" height="64" alt=""/> HORO-PRIVATE <img src="../QRcode.jpg" width="78" height="71" alt=""/></p>
+            <td width="286"><p><img src="../myline.png" width="74" height="64" alt=""/>Line ID: horo-private</p>
               <p><img src="../myface.png" width="73" height="65" alt=""/> https://www.facebook.com/kchahoro</p>
-            <p><img src="../mail.jpg" width="77" height="58" alt=""/> mailto : kieat2014@gmail.com</p>
-=======
-            <td width="273"><p> line id horo-private </p>
-              <p> mait : kieat2014@gmail.com</p>
->>>>>>> 3e27ecf8068779a796f3d851ff96d71e46c4a28d
-            <p>&nbsp;</p></td>
+            <p><img src="../mail.jpg" width="77" height="58" alt=""/> mailto : kieat2014@gmail.com            </p>
+            <td width="212">&nbsp;</td>
           </tr>
         </tbody>
       </table>
